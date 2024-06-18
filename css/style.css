@@ -1425,7 +1425,9 @@ img:hover {
   left: 400px;
   filter: opacity(50%);
 }
-
+.footer img{
+  width: 150px;
+}
 @media (max-width:1200px) {
   .background-image {
     top: 800px;
