@@ -1478,6 +1478,9 @@ img:hover {
     .about-img img{
         width: 300px;
     }
+    .footer img{
+      width: 100px;
+    }
 }
 @media (min-width:577px) and (max-width:720px) {
   .background-image {
@@ -1493,6 +1496,9 @@ img:hover {
     .about-img img{
         width: 300px;
         
+    }
+    .footer img{
+      width: 100px;
     }
 }
 @media (max-width:576px) {
