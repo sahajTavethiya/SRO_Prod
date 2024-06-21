@@ -1,4 +1,39 @@
-@media (max-width:1200px) {
+
+
+
+.h-100{
+    height: 100vh;
+}
+.w-1140{
+    width: 1320px;    
+    margin: auto;
+}
+.secondSection{
+    background-color: whitesmoke;
+    height: fit-content;
+}
+.flexOfSecondSection{
+    display: flex;
+    padding-top: 60px;
+}
+.descriptionSection{
+    width: 48%;
+}
+.imageSection{
+    width: 47%;
+}
+.imageSection img {
+    width: 100%;
+}
+
+.embed-responsive-item{
+    height: 350px;
+    width: 500px;
+  }
+
+
+
+  @media (max-width:1200px) {
     .w-1140{
         width: 1140px;
     }
