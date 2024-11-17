@@ -294,7 +294,9 @@ h6,
   /* color: (var(--primary)); */
   width: 100%;
   padding: 0.5rem 1.5rem;
-  font-size: 14px;
+  font-family:var(--bs-font-monospace);
+  /* font-size: 14px; */
+  color: #806449;
 }
 
 .navbar .menu-item:hover {
@@ -308,6 +310,7 @@ h6,
 .navbar .dropdown:hover .dropdown-menu {
   opacity: 1;
   visibility: visible;
+  /* color: #806449; */
 }
 
 .navbar .dropdown-right:hover .menu-right {
