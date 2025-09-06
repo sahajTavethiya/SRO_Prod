@@ -258,9 +258,9 @@ h6,
   position: absolute;
   background: #e9ecef;
   width: 190px;
-  line-height: 30px;
+  /* line-height: 30px; */
   border-radius: 0 0 5px 5px;
-  top: 65px;
+  /* top: 65px; */
   border-top: 1px solid white;
   left: 0;
   opacity: 0;
